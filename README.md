@@ -26,7 +26,6 @@
 
 ## 📊 GitHub Stats
 
-![Venicio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenicioAugusto&show_icons=true&theme=radical&hide=issues&count_private=true)  
 ![Venicio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenicioAugusto&layout=compact&theme=radical)
 
 ---
