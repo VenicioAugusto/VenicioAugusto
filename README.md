@@ -30,14 +30,6 @@
 
 ---
 
-## 🏅 Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=VenicioAugusto&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/VenicioAugusto?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/VenicioAugusto?style=social)
-
----
-
 ## 🔥 Currently working on
 
 - 🎧 **Whisper Challenge Game** (Real-time game with C# backend + TypeScript frontend)  
